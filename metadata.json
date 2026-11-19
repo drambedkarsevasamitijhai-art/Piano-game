@@ -1,0 +1,7 @@
+{
+  "name": "Piano Rhythm - लयबद्ध पियानो गेम",
+  "description": "An interactive 4-key piano rhythm arcade game with realistic synthesizer sounds, song melodies, hints, dynamic tempo, and bilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
